@@ -1,5 +1,126 @@
 # 💫 About Me:
-👋 Hi, I'm Sukrit Goswami<br>🎯 Aspiring Data Scientist | ML & AI Enthusiast | Backend Developer (FastAPI)<br><br>I enjoy learning how AI and Machine Learning can solve real-world problems.<br>Recently, I had the opportunity to work on a RAG-based LLM project during HackTint 2025, which strengthened my interest in applied AI.<br><br>Currently, I’m expanding my skills in ML fundamentals, model tuning, and backend development.<br><br>🤖 Worked on a RAG-based LLM assistant as part of HackTint 2025<br><br>🛡️ Currently building an Anti-Cheat Simulator, focused on behavior analytics and anomaly detection<br><br>🌱 Learning Scikit-learn, model evaluation, and FastAPI-based API development<br><br>🔧 Curious about how data-driven systems work under the hood and how to make them efficient<br><br>🛠️ Tech Stack<br><br>Languages: Python, SQL<br>ML & Data: NumPy, Pandas, Scikit-learn, Matplotlib<br>Backend: FastAPI, REST APIs<br>Tools: Docker, WSL, Git, GitHub, Postman<br>Extras: Streamlit, Vector Databases (for RAG), JSON APIs<br><br>🏆 Experience<br><br>Built a RAG-powered campus assistant using embeddings + semantic search<br><br>Created ML pipelines for classification, regression, and data cleaning<br><br>Improved backend routing and API workflows in FastAPI<br><br>Worked on multiple learning-focused projects to strengthen ML fundamentals<br><br>🔭 Current Projects<br><br>🛡️ Anti-Cheat Simulator<br>A simulator that uses behavior patterns and anomaly detection concepts to understand cheating scenarios.<br><br>🤖 Campus RAG Assistant<br>Retrieval-augmented assistant built during HackTint using vector embeddings and LLM reasoning.<br><br>📚 ML Practice Projects<br>Exploring algorithms, model tuning, and evaluation techniques.<br><br>💬 Ask Me About<br><br>Python for Data Science<br><br>Machine Learning basics & model development<br><br>FastAPI and building backend APIs<br><br>RAG/LLM concepts<br><br>Dataset preprocessing & visualization<br><br>🎓 Education<br><br>B.Tech – CSE<br>a student exploring AI, ML, and backend systems.<br><br>⚡ Fun Fact<br><br>I often learn by breaking things first… and fixing them later 😄<br>I like turning simple ideas into working AI prototypes.
+👋 Hi, I'm **Sukrit Goswami**  
+🎯 Aspiring Data Scientist | AI/ML Enthusiast | Full-Stack Developer
+
+I'm passionate about building AI systems that solve real-world problems. From **multilingual RAG assistants** to **full-stack hackathon platforms**, I focus on creating scalable, production-ready solutions.
+
+Currently expanding my skills in **ML model development**, **LLM applications**, **scalable backend systems**, and **full-stack web development**.
+
+---
+
+## 🚀 Recent Highlights
+
+🎉 **Built HackHub** – AI-Powered Hackathon Management Platform
+- Full-stack platform with **React** + **Node.js/Express** + **Firebase**
+- AI-based evaluation system with **Google Gemini** integration
+- QR-based check-ins, team management, and organizer workflows
+- Deployed on **Vercel** (frontend) + **Render** (backend)
+- [View on GitHub](https://github.com/sukrit-89/cal_hacks)
+
+🤖 **Built TechnoBuddy** – Multilingual AI Campus Assistant (HackTINT 2025)
+- RAG architecture using **LangChain** + **Google Gemini 2.5 Flash**
+- **FAISS** vector store with multilingual embeddings
+- Supports **5+ languages** (English, Hindi, Bengali, Tamil, Marathi)
+- Telegram bot with **MongoDB** conversation logging
+- Processed **28+ documents** for semantic search
+
+🛡️ **Developing Anti-Cheat Simulator**
+- Behavior pattern analysis and anomaly detection
+- Exploring supervised learning for cheat detection
+
+📊 **ML Practice Projects**
+- Classification, regression, and data preprocessing pipelines
+- Model evaluation and hyperparameter tuning
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: Python, JavaScript, SQL  
+**Frontend**: React, Zustand, TailwindCSS, Vite  
+**Backend**: Node.js, Express, FastAPI, REST APIs  
+**Databases**: Firebase (Firestore), MongoDB, PyMongo  
+**AI/ML**: LangChain, Google Gemini, HuggingFace, Scikit-learn, NumPy, Pandas  
+**Vector Databases**: FAISS, ChromaDB  
+**Cloud & DevOps**: Vercel, Render, Docker, WSL, Git, GitHub  
+**NLP**: deep-translator, langdetect  
+**Tools**: Postman, ngrok, Cloudinary  
+**Data Viz**: Matplotlib, Seaborn, Streamlit  
+
+---
+
+## 🏆 Experience
+
+✅ Built **full-stack hackathon platform** with role-based access, AI evaluations, and real-time updates  
+✅ Deployed **production apps** on Vercel and Render with Firebase backend  
+✅ Built **production-ready RAG pipeline** with semantic search & embedding models  
+✅ Integrated **Telegram Bot API** with webhook-based async architecture  
+✅ Implemented **multilingual translation** with automatic language detection  
+✅ Designed **FastAPI & Express backends** with MongoDB/Firebase for data persistence  
+✅ Created **ML classification & regression models** with proper evaluation metrics  
+
+---
+
+## 🔭 Current Projects
+
+### 🎉 HackHub – AI-Powered Hackathon Management Platform
+*Full-Stack Development*
+- Complete hackathon lifecycle management: registration → evaluation → results
+- AI-based team evaluation using Google Gemini for code/resume analysis
+- QR code-based RSVP system for participant check-ins
+- Role-based dashboards (Participants & Organizers)
+- Stack: React, Node.js, Express, Firebase, Cloudinary, Google Gemini
+- Deployed: Vercel (Frontend) + Render (Backend)
+- [View on GitHub](https://github.com/sukrit-89/cal_hacks)
+
+### 🤖 TechnoBuddy – AI Campus Assistant
+*HackTINT 2025 | Team: HACKWARRIORS*
+- Retrieval-Augmented Generation (RAG) chatbot for campus queries
+- Stack: FastAPI, LangChain, Google Gemini, FAISS, MongoDB, Telegram API
+- [View on GitHub](https://github.com/sukrit-89/TechnoBuddy_2025_Col_bot)
+
+### 🛡️ Anti-Cheat Simulator
+- Behavior analytics and anomaly detection system
+- Exploring pattern recognition and ML-based fraud detection
+
+### 📚 ML Fundamentals
+- Algorithm implementation, feature engineering, model tuning
+- Dataset preprocessing and performance optimization
+
+---
+
+## 💬 Ask Me About
+
+- Building **full-stack web applications** with React & Node.js
+- **Firebase** (Authentication, Firestore, Storage, Cloud Functions)
+- Building **RAG systems** with LangChain & vector databases
+- **LLM integration** (Google Gemini, OpenAI)
+- **FastAPI & Express** for backend development
+- **Machine Learning** pipelines & model evaluation
+- **Multilingual NLP** and translation systems
+- Deploying to **Vercel** and **Render**
+- Data preprocessing & visualization
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science & Engineering**  
+Exploring AI, Machine Learning, and scalable full-stack systems
+
+---
+
+## 📫 Let's Connect
+
+💼 Open to collaborations on **AI/ML projects**, **RAG applications**, **full-stack development**, and **hackathon platforms**
+
+---
+
+## ⚡ Fun Fact
+
+I learn by breaking things first… then building them better 😄  
+Currently obsessed with making AI assistants smarter, more multilingual, and building platforms that empower innovation! 🌍
+
 
 
 ## 🌐 Socials:
