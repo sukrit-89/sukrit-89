@@ -23,6 +23,7 @@ Currently expanding my skills in **ML model development**, **LLM applications**,
 - Supports **5+ languages** (English, Hindi, Bengali, Tamil, Marathi)
 - Telegram bot with **MongoDB** conversation logging
 - Processed **28+ documents** for semantic search
+- [View on GitHub](https://github.com/sukrit-89/TechnoBuddy_2025_Col_bot)
 
 🛡️ **Developing Anti-Cheat Simulator**
 - Behavior pattern analysis and anomaly detection
