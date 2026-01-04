@@ -2,9 +2,9 @@
 👋 Hi, I'm **Sukrit Goswami**  
 🎯 Aspiring Data Scientist | AI/ML Enthusiast | Full-Stack Developer
 
-I'm passionate about building AI systems that solve real-world problems. From **multilingual RAG assistants** to **full-stack hackathon platforms**, I focus on creating scalable, production-ready solutions.
+I'm passionate about building AI systems that solve real-world problems. From **multilingual RAG assistants** to **full-stack hackathon platforms** to **AI workflow automation**, I focus on creating scalable, production-ready solutions.
 
-Currently expanding my skills in **ML model development**, **LLM applications**, **scalable backend systems**, and **full-stack web development**.
+Currently expanding my skills in **ML model development**, **LLM applications**, **scalable backend systems**, **full-stack web development**, and **AI workflow automation**.
 
 ---
 
@@ -25,6 +25,13 @@ Currently expanding my skills in **ML model development**, **LLM applications**,
 - Processed **28+ documents** for semantic search
 - [View on GitHub](https://github.com/sukrit-89/TechnoBuddy_2025_Col_bot)
 
+🔧 **Exploring n8n & AI Agent Workflows**
+- Learning workflow automation with **n8n** and AI agent orchestration
+- Built RAG chatbot with **Google Drive** + **Pinecone** + **Mistral-7B**
+- Automated document ingestion and semantic search pipeline
+- Webhook-based chat interface with context-aware responses
+- [View Learning Journey](https://github.com/sukrit-89/AI-AGENTS-N8N)
+
 🛡️ **Developing Anti-Cheat Simulator**
 - Behavior pattern analysis and anomaly detection
 - Exploring supervised learning for cheat detection
@@ -42,7 +49,8 @@ Currently expanding my skills in **ML model development**, **LLM applications**,
 **Backend**: Node.js, Express, FastAPI, REST APIs  
 **Databases**: Firebase (Firestore), MongoDB, PyMongo  
 **AI/ML**: LangChain, Google Gemini, HuggingFace, Scikit-learn, NumPy, Pandas  
-**Vector Databases**: FAISS, ChromaDB  
+**Vector Databases**: FAISS, Pinecone  
+**Workflow Automation**: n8n (AI Agents, RAG pipelines, API integrations)  
 **Cloud & DevOps**: Vercel, Render, Docker, WSL, Git, GitHub  
 **NLP**: deep-translator, langdetect  
 **Tools**: Postman, ngrok, Cloudinary  
@@ -59,6 +67,7 @@ Currently expanding my skills in **ML model development**, **LLM applications**,
 ✅ Implemented **multilingual translation** with automatic language detection  
 ✅ Designed **FastAPI & Express backends** with MongoDB/Firebase for data persistence  
 ✅ Created **ML classification & regression models** with proper evaluation metrics  
+✅ Built **AI workflow automation** with n8n for automated document processing and chatbots  
 
 ---
 
@@ -80,6 +89,14 @@ Currently expanding my skills in **ML model development**, **LLM applications**,
 - Stack: FastAPI, LangChain, Google Gemini, FAISS, MongoDB, Telegram API
 - [View on GitHub](https://github.com/sukrit-89/TechnoBuddy_2025_Col_bot)
 
+### 🔧 n8n AI Agent Learning
+*Workflow Automation & AI Orchestration*
+- Exploring n8n for building AI-powered automation workflows
+- Implemented RAG chatbot with automated document processing
+- Stack: n8n, Google Drive API, Pinecone (vector DB), HuggingFace Embeddings, OpenRouter (Mistral-7B)
+- Features: Real-time document monitoring, semantic search, AI-powered responses
+- [View Learning Repository](https://github.com/sukrit-89/AI-AGENTS-N8N)
+
 ### 🛡️ Anti-Cheat Simulator
 - Behavior analytics and anomaly detection system
 - Exploring pattern recognition and ML-based fraud detection
@@ -96,6 +113,8 @@ Currently expanding my skills in **ML model development**, **LLM applications**,
 - **Firebase** (Authentication, Firestore, Storage, Cloud Functions)
 - Building **RAG systems** with LangChain & vector databases
 - **LLM integration** (Google Gemini, OpenAI)
+- Building **AI workflows** with **n8n** and agent orchestration
+- **Vector databases** (FAISS, Pinecone) for semantic search
 - **FastAPI & Express** for backend development
 - **Machine Learning** pipelines & model evaluation
 - **Multilingual NLP** and translation systems
@@ -113,22 +132,23 @@ Exploring AI, Machine Learning, and scalable full-stack systems
 
 ## 📫 Let's Connect
 
-💼 Open to collaborations on **AI/ML projects**, **RAG applications**, **full-stack development**, and **hackathon platforms**
+💼 Open to collaborations on **AI/ML projects**, **RAG applications**, **full-stack development**, **workflow automation**, and **hackathon platforms**
 
 ---
 
 ## ⚡ Fun Fact
 
 I learn by breaking things first… then building them better 😄  
-Currently obsessed with making AI assistants smarter, more multilingual, and building platforms that empower innovation! 🌍
+Currently obsessed with making AI assistants smarter, more multilingual, building platforms that empower innovation, and exploring **n8n workflow automation** for AI agents! 🌍🤖
 
-
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sukrit__2006) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@purpcoding) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukrit.goswami.work@gmail.com) 
 
 # 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sukrit-89&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sukrit-89&theme=dark&hide_border=false)<br/>
